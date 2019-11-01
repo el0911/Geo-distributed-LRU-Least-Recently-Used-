@@ -1,0 +1,3 @@
+{"type": "add", "key": "somto", "value": "somto"}
+{"type": "add", "key": "texas", "value": "texas"}
+{"type": "add", "key": "king", "value": "king"}
